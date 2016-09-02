@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="user_name">User Name:</string>
+    <string name="user_id">User Id:</string>
+    <string name="user_pwd">User Password:</string>
+    <string name="user_dob">User DOB:</string>
+    <string name="user_gender">User Gender:</string>
+    <string name="user_email">User Email:</string>
+    <string name="user_services">User Services:</string>
+    <string name="user_address">User Address:</string>
+    <string name="select_services">Select Services</string>
+    <string name="type_to_search">Type to Search</string>
+</resources>
